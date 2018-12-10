@@ -1,6 +1,9 @@
-## Available Scripts
+# Frontend para o validar de XML da SciELO
 
-In the project directory, you can run:
+Aplicação em react JS para consumir a api de validação do xml 
+
+### Acesso
+link para acesso [https://validator-scielo-frontend.netlify.com/](https://validator-scielo-frontend.netlify.com/)
 
 ### `npm start`
 
